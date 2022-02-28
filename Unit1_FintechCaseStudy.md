@@ -109,8 +109,8 @@ Theya are using AI APIs like tensor flow to generate adive in robo app
 It is mostly appealing to millenials and has provided easy way to low cost investing by offering 0 trade commissions and providing recommendations using Robo advisors. In addition it also offers buying fractional shares, thus allowing users purchase stocks of their favourite companies that have high price per share.
 -it also offers SRI (sociall responsible investing) option which appeals mostly to millenials that are concerned with this aspect of investing.
 
-[Reference](https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing)
-[Reference](https://www.wealthsimple.com/en-ca/magazine/fractional-shares)
+[Reference 1](https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing)
+[Reference 2](https://www.wealthsimple.com/en-ca/magazine/fractional-shares)
 
 ###  What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 - Number of Assets under management (AUM) and number of uses are core metrics used to nmeasure success by companies in this domain
