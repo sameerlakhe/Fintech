@@ -20,12 +20,12 @@ September 2014
 Michael Katchen and is based in Toronto
 
 ### How did the idea for the company (or project) come about?
-Prior to founding Wealthsimple, Michael Katchen worked for 1000Memories, a Silicon Valley-based startup.[1] After Ancestry.com bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios.[1] Interest in the spreadsheet helped inspire the idea for Wealthsimple.[1] In 2014, he returned to Toronto to launch the company
+Prior to founding Wealthsimple, Michael Katchen worked for 1000Memories, a Silicon Valley-based startup. After Ancestry.com bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios.Interest in the spreadsheet helped inspire the idea for Wealthsimple.In 2014, he returned to Toronto to launch the company
 
 ### How is the company funded? How much funding have they received?
-In May 2014, the company initially raised CA$1.9 million from investors Eric Kirzner, Joe Canavan, and Roger Martin.[6][1]
+In May 2014, the company initially raised CA$1.9 million from investors Eric Kirzner, Joe Canavan, and Roger Martin.
 
-In April 2015, the firm received $10 million from Power Financial Corporation in an agreement structured to allow for a future investment of $20 million within 12 months.[44] In total, Power Financial Corporation has invested $30 million in Series A funding.[2][45] It is now primarily owned by Power Corporation indirectly at 77.4% (the investments were through their holdings in Power Financial, IGM Financial, and Portag3).[8]
+In April 2015, the firm received $10 million from Power Financial Corporation in an agreement structured to allow for a future investment of $20 million within 12 months. In total, Power Financial Corporation has invested $30 million in Series A funding. It is now primarily owned by Power Corporation indirectly at 77.4% (the investments were through their holdings in Power Financial, IGM Financial, and Portag3)
 
 In October 2020, Wealthsimple raised $114 million (US$87 million) in funding from an investor group led by Technology Crossover Ventures, in addition to Greylock Partners, Meritech Capital Partners, Two Sigma Ventures, and Allianz X
 
