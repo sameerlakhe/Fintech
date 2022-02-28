@@ -109,8 +109,8 @@ Theya are using AI APIs like tensor flow to generate adive in robo app
 It is mostly appealing to millenials and has provided easy way to low cost investing by offering 0 trade commissions and providing recommendations using Robo advisors. In addition it also offers buying fractional shares, thus allowing users purchase stocks of their favourite companies that have high price per share.
 -it also offers SRI (sociall responsible investing) option which appeals mostly to millenials that are concerned with this aspect of investing.
 
-[Reference](https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing
-https://www.wealthsimple.com/en-ca/magazine/fractional-shares)
+[Reference] (https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing)
+[Reference] (https://www.wealthsimple.com/en-ca/magazine/fractional-shares)
 
 ###  What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 - Number of Assets under management (AUM) and number of uses are core metrics used to nmeasure success by companies in this domain
@@ -132,8 +132,8 @@ Moreover, Wealthsimple does offer UTMA and UGMA custodial accounts, which may be
 - Offer debit/credit card that provides rewards in crypto currency like bitcoin. Mogo app provides such a debit card in Canada. BlockFI provides a credit card in the US does it.
 - Offer derrivatives trading  
 
-[Reference](https://www.mogo.ca/prepaid-visa-card-canada)
-[Reference](https://blockfi.com/credit-card/)
+[Reference 1](https://www.mogo.ca/prepaid-visa-card-canada)
+[Reference 2](https://blockfi.com/credit-card/)
 
 ###  Why do you think that offering this product or service would benefit the company?
 Offering free stocks on signup will incentivize potential customers to signup and get started with investing. Robinhood app in the US does it.
